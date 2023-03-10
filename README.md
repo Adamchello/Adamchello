@@ -1,4 +1,4 @@
-# Hello there, I'm Adam 👋
+# Hello there, I'm Adam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm a frontend developer and mentor with over 2 years of experience. I'm in love with Next.js and Typescript. Still learning and discovering new stuff!
 
@@ -10,7 +10,7 @@ I'm a frontend developer and mentor with over 2 years of experience. I'm in love
 
 ## 🦾 Projects
 
-- [🎧 Spotify playlist generator](https://github.com/Adamchello/spotify-playlist-generator) | Are you tired of listening to your old playlist over and over again? Try out the playlist generator, to add a little bit of new sounds to your spotify playlist.
+- [🎧 Spotify playlist generator](https://github.com/Adamchello/spotify-playlist-generator) | Add some variety to your Spotify playlist with the playlist generator, perfect for those tired of listening to the same old songs on repeat.
 - Work in progress 🧐...
 
 ## 🌱 Hobbies
